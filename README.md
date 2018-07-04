@@ -1,2 +1,2 @@
 # Registry.Finder-zh-CN-lang
-Chinese (Simplified) Language file of Registry Finder
+Chinese (Simplified) Language file for Registry Finder 2.22
